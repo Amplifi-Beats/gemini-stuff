@@ -6,7 +6,8 @@ awesome-gemini but subjective, and specific
 terminal client (win, linux, mac, android - through proot and termux)
 
 ### config
-![](/img/config.toml.png)
+I used the Nord theme and made some changes (favicons are enabled)
+![a carbon rendering of the config](/img/configdottoml.png)
 
 
 
