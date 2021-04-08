@@ -10,9 +10,13 @@ I used the Nord theme and made some changes (favicons are enabled)
 ![a carbon rendering of the config](/img/configdottoml.png)
 
 
+### newtab
+![a carbon rendering of the newtab](/img/newtab.png)
 
 
 ## Ariane
-GUI client - android (f droid and play store)
+GUI client - android
+[F-droid](https://f-droid.org/en/packages/oppen.gemini.ariane/)
+[Play Store](https://play.google.com/store/apps/details?id=oppen.gemini.ariane&hl=en_IE&gl=US)
 
 ##
